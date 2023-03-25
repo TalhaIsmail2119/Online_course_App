@@ -1,0 +1,1 @@
+int curInd = 0;
